@@ -4,11 +4,11 @@
 
 ![Title screen](screenshots/title.png)
 
-https://github.com/user-attachments/assets/1874343a-22a3-412f-9892-e32110f42d5a
-
 | Sector 8 | Sector 25: Eclipse Omega Prime |
 |---|---|
 | ![A regular sector](screenshots/sector.png) | ![The final guardian](screenshots/guardian.png) |
+
+https://github.com/user-attachments/assets/1874343a-22a3-412f-9892-e32110f42d5a
 
 This repository holds two builds of the same game, and both are single, self-contained files:
 
