@@ -1,7 +1,7 @@
 # PHASE
 
 <p align="center"> <a href="https://koh-gt.github.io/phase-rhythm-shooter/web/phase.html"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20NOW-in%20your%20browser-ff4fd8?style=for-the-badge&labelColor=07020f" alt="Play now in your browser" height="40"></a> </p>
-<p align="center"> <a href="https://koh-gt.github.io/phase-rhythm-shooter/web/phase.html"><img src="https://img.shields.io/badge/%E2%96%B6%20DEBUG%20VER-Unlimited%20XP-ff4fd8?style=for-the-badge&labelColor=07020f" alt="Play now in your browser (Unlimited XP)" height="40"></a> </p>
+<p align="center"> <a href="https://koh-gt.github.io/phase-rhythm-shooter/web/phase_test.html"><img src="https://img.shields.io/badge/%E2%96%B6%20DEBUG%20VER-Unlimited%20XP-ff4fd8?style=for-the-badge&labelColor=07020f" alt="Play now in your browser (Unlimited XP)" height="40"></a> </p>
 
 **PHASE is a vaporwave rhythm twin-stick shooter.** Your guns fire on the beat, every enemy you destroy plays a note in key, and your dashes are judged against the music to within 40 ms. A full run goes through twenty-five sectors and five guardians, backed by a soundtrack that is composed live as you play. There are no asset files in this repository because every pixel and every sound is generated at runtime.
 
